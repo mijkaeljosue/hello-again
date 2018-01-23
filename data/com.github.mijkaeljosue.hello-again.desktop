@@ -1,0 +1,11 @@
+`[Desktop Entry]
+name=Hola nuevamente
+GenericName=Hola Mundo Aplicacion
+Comment=Proves that we can use Vala and Gtk
+Categories=Utility;Education;
+Exec=com.github.mijkaeljosue.hello-again
+Icon=application-default-Icon
+Terminal=false
+Type=application
+X-GNOME-Gettext-Domain=hello-again
+Keywords=hola;mundo;Ejemplo;
